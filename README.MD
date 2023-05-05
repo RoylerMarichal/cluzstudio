@@ -3,7 +3,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 I'm an entrepreneur and FullStack Developer
 
-* 🌍  I'm based in 🇨🇺
+* 🌍  I'm based in Brasil
 * ✉️  You can contact me at [cluzstudio@gmail.com](mailto:contact.cluzstudio@gmail.com)
 * 🚀  I'm currently working on [CrecexDiez](http://crecexdiez.com)
 
